@@ -11,10 +11,8 @@ layout: post
 #### Today's Missions:
 
 <span style="color:green;font-weight:700;font-size:16px">
-1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask Questions.
-<br>
-2. Think! How would you describe Scratch to a friend? 
-</span>
+1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask Questions.<br>
+2. Think! How would you describe Scratch to a friend?</span>
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
@@ -23,40 +21,36 @@ layout: post
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
-<center><img alt="Scratch" src="/_images/scratch/scratch-word.png" width="50%" /></center>
-
-<center>is a :balloon: FREE :balloon: online program that can help you make:<br>
-<span style="color:green;font-weight:700;font-size:16px">Music Videos | Tell Stories | Learn Computer Code<br>Go to: 
-<script> function button(){ window.open("address");} </script><button onclick="button()">scratch.mit.edu</button>
-</center>
-<br>
-<center><img alt="Scratch" src="/_images/scratch/01.png" width="70%" />
-</center>
+<center><img src="/_images/scratch/scratch-word.png" width="50%" /> <br>
+is a :balloon: FREE :balloon: online program that can help you make:<br>
+<span style="color:green;font-weight:700;font-size:16px">Music Videos<br>Tell Stories<br>Learn Computer Code<br><br>Go to: <script> function button(){ window.open("address");} </script><button onclick="button()">SCRATCH.MIT.EDU</button>
+<br><br>
+<img alt="Scratch" src="/_images/scratch/01.png" width="70%" /></center>
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
-
 ### B. Mental Floss 
 
->*What is Mental Floss? 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cleaning out your brain.*&nbsp;&nbsp; ;)
+> *What is Mental Floss?* 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cleaning out your brain.&nbsp;&nbsp; ;)
 
 |Who Uses Scratch & Why?|
 |:-:|
-|<center>Abhi Does!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/_images/scratch/Abhi.png" width="40%" alt="Abhi"> </a> </center>|
-|<center>Natalie Does!<br> <a href="https://www.youtube.com/watch?v=AiYO_unP67w"> <img src="/_images/scratch/natalie.png" width="40%" alt="Natalie"> </a> </center>|
+|<center>Abhi Does!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/_images/scratch/Abhi.png" width="60%" alt="Abhi"> </a> </center>|
+|<center>Natalie Does!<br> <a href="https://www.youtube.com/watch?v=AiYO_unP67w"> <img src="/_images/scratch/natalie.png" width="60%" alt="Natalie"> </a> </center>|
 |<center>Now, you can!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/_images/scratch/scratch.png" width="60%" alt="Getting Started"><br>**Let's Get Started with Scratch**</a> </center>|
 
 testing below
 
 <center> Getting Started with Scratch <br> <a href="http://www.youtube.com/watch?feature=player_embedded&v=9jTPZfhuVro" target="_blank"><img src="/_images/scratch/Abhi.png" alt="HERE" width="240" height="180" border="10" /></a></center>
 
-<center> Getting Started with Scratch <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/_images/scratch/scratch.png" width="70%" alt="Getting Started"> </a> </center>
+<center>Getting Started with Scratch <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/_images/scratch/scratch.png" width="70%" alt="Getting Started"> </a></center>
 
 ---
 
-- ***Did you know?***
+<div class="a">
+***Did you know?***
   - Early `computer scientists` had backgrounds in **math and languages**, which influenced the way they approached computing.
 
 |Did you see this movie?![turing pic](/_images/scratch/turing.movie.png)|
