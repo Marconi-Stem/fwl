@@ -1,7 +1,15 @@
+---
+title: Start With Scratch
+author: MCC
+date: 2025-06-17
+category: Scratch
+layout: post
+---
+
 # Day 1: Start With Scratch
 
-Start the Day with a word-search. [Downloadable NEED PDF]
-- PDF should have a word search and a set of lines for students username and pasword for Scratch.
+Start the Day with a word-search. [Downloadable NEED PDF for Games]
+- PDF should have a word search and a set of lines for students username and password for Scratch.
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 

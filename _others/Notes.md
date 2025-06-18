@@ -1,4 +1,11 @@
-# Notes
+---
+title: Notes
+author: MCC
+date: 2025-06-17
+category: Notes
+layout: post
+---
+
 
 https://gettingunstuck.gse.harvard.edu/
 
