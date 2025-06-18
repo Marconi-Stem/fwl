@@ -1,7 +1,6 @@
 ---
-layout: home
+layout: post
 title: Firewalker Lights Parts List
-permalink: /
 ---
 
 > July, 2025, Marconi Summer STEM course

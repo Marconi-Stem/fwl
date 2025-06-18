@@ -1,9 +1,9 @@
 ---
-title: About others
+title: others-about
 author: MCC
 date: 2025-06-17
 category: 
 layout: post
 ---
 
-This is an about page for "others" in the collections.
+This is "_others/about.md" 

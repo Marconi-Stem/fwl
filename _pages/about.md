@@ -1,9 +1,9 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
-category: Jekyll
+author: MCC
+date: 2025-06-17
+category: 
 layout: post
 ---
 
-This is an about page.
+This is "_pages/about.md"

@@ -1,9 +1,9 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
-category: Jekyll
+author: MCC
+date: 2025-06-17
+category: contact
 layout: post
 ---
 
-This is an contact page.
+This is "_pages/contact.md" 
