@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Making Firewalker Protective Lights
+title: Firewalker Lights Parts List
 permalink: /
 ---
 
@@ -9,29 +9,10 @@ permalink: /
 
 The *Firewalker Protective Lights* use colorful Neopixel LEDS that may be placed on a bike helmet or sewn to the front or back of a coat.
 
----
-
-Notes to self: 
-
-https://marconi-stem.github.io/fwl/
-
-<span style="color:red;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
-
-> GREEN tip
-{: .block-tip }
-
----
-
 
 ## A. For This Project We Need:
 
-```
-ex.
-<img alt="gemma M0" src="/images/gemma.png" width="60%" /> 
-```
-  
+
 | Quantity | Part |
 | :-: | :-: |
 | One | <img alt="gemma M0" src="/assets/images/gemma.png" width="90%" /> <br>Adafruit GEMMA M0 board:<br>[https://www.adafruit.com/product/3501](https://www.adafruit.com/product/3501) |
