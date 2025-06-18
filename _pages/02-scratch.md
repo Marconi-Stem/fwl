@@ -20,11 +20,11 @@ layout: post
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
-<center><img src="/_images/scratch/scratch-word.png" width="50%" /> <br>
+<center><img src="/images/scratch/scratch-word.png" width="50%" /> <br>
 is a :balloon: FREE :balloon: online program that can help you make:<br>
 :musical_note: **Music Videos** 
 <br>:dragon: Tell Stories<br>**Learn Computer Code** :sun_with_face: <br><br>
-<img src="/_images/scratch/01.png" width="70%" />
+<img src="/images/scratch/01.png" width="70%" />
 </center>
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
@@ -39,16 +39,16 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 
 |Abhi Does!|
 |:-:|
-|<center>Abhi Does!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/_images/scratch/Abhi.png" width="60%" alt="Abhi"> </a> </center>|
-|<center>Natalie Does!<br> <a href="https://www.youtube.com/watch?v=AiYO_unP67w"> <img src="/_images/scratch/natalie.png" width="60%" alt="Natalie"> </a> </center>|
-|<center>Now, you can!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/_images/scratch/scratch.png" width="60%" alt="Getting Started"><br></a> </center>|
+|<center>Abhi Does!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch/Abhi.png" width="60%" alt="Abhi"> </a> </center>|
+|<center>Natalie Does!<br> <a href="https://www.youtube.com/watch?v=AiYO_unP67w"> <img src="/images/scratch/natalie.png" width="60%" alt="Natalie"> </a> </center>|
+|<center>Now, you can!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch/scratch.png" width="60%" alt="Getting Started"><br></a> </center>|
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 ***Did you know?***
   - Early `computer scientists` had backgrounds in **math and languages**, which influenced the way they approached computing.
 
-|Did you see this movie?![turing pic](/_images/scratch/turing.movie.png)|
+|Did you see this movie?![turing pic](/images/scratch/turing.movie.png)|
 |:-:|
 | https://www.youtube.com/watch?v=gtRLmL70TH0 |
 | https://www.create-learn.us/computer-science-curriculum-for-kids |
@@ -66,7 +66,7 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 
 1. Go to: <script> function button(){ window.open("address");} </script> <button onclick="button()">scratch.mit.edu</button>
 
-2. Find <span style="color:purple;font-weight:600;font-size:18px">Join Scratch</span> on the home page. <img alt="join scratch" src="/_images/scratch/site-join-02.circles.png" width="100%" />
+2. Find <span style="color:purple;font-weight:600;font-size:18px">Join Scratch</span> on the home page. <img alt="join scratch" src="/images/scratch/site-join-02.circles.png" width="100%" />
 3. Write your username and password down on your slip of paper.
 4. Log-in to your page.
 
@@ -80,7 +80,7 @@ Go to: <script> function button(){ window.open("address");} </script><button onc
 | 1. Check out the links in the <span style="color:red;font-weight:600;font-size:16px">RED ellipse.</span> |
 |:-:|
 | 2. <span style="color:green;font-weight:700;font-size:16px">Explore</span> the **Help, Ideas, & Projects by students**, like you! |
-| 3. Your Home page should look like this: ![scratch.page1](/_images/scratch/scratch.page1.png) <br> Explore all the locations. Where do they go?|
+| 3. Your Home page should look like this: ![scratch.page1](/images/scratch/scratch.page1.png) <br> Explore all the locations. Where do they go?|
 | Which one is for *Help*,  `Creating a Project`, *Chatting with the* `community`, *Other's Projects*.
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
@@ -90,7 +90,7 @@ Go to: <script> function button(){ window.open("address");} </script><button onc
 
 | Question: How does it work? |
 |:-:|
-| 4. ![goto.no.1099373392.Inspect.COMMANDS.5](/_images/scratch/goto.no.1099373392.Inspect.COMMANDS.5.png) <br>
+| 4. ![goto.no.1099373392.Inspect.COMMANDS.5](/images/scratch/goto.no.1099373392.Inspect.COMMANDS.5.png) <br>
 | [https://scratch.mit.edu/projects/1182854333/](https://scratch.mit.edu/projects/1182854333/)
 
 
@@ -98,7 +98,7 @@ Go to: <script> function button(){ window.open("address");} </script><button onc
 
 
 5.
-![goto.no.1099373392.Inspect.COMMANDS.6](/_images/scratch/goto.no.1099373392.Inspect.COMMANDS.6.png)
+![goto.no.1099373392.Inspect.COMMANDS.6](/images/scratch/goto.no.1099373392.Inspect.COMMANDS.6.png)
 
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
