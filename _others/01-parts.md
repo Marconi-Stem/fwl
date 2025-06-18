@@ -6,7 +6,7 @@ title: Firewalker Lights Parts List
 > July, 2025, Marconi Summer STEM course
 {: .block-tip }
 
-The *Firewalker Protective Lights* use colorful Neopixel LEDS that may be placed on a bike helmet or sewn to the front or back of a coat.
+The :rotating_light: *Firewalker Protective Lights* :rotating_light: use colorful :traffic_light: Neopixel LEDS :traffic_light: that may be placed on a bike helmet or sewn to a coat.
 
 
 ## A. For This Project We Need:
