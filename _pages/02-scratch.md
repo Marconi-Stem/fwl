@@ -30,7 +30,7 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
-### C. Who Uses Scratch & Why?
+## C. Who Uses Scratch & Why?
 
 
 > *What is Mental Floss?* 
@@ -62,7 +62,7 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
-### D. Join Scratch
+## D. Join Scratch
 
 1. Go to: <script> function button(){ window.open("address");} </script> <button onclick="button()">scratch.mit.edu</button>
 
@@ -75,7 +75,7 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 Go to: <script> function button(){ window.open("address");} </script><button onclick="button()">SCRATCH.MIT.EDU</button> <br><br> 
 
 
-### E. Explore Your Home Page
+## E. Explore Your Home Page
 
 | 1. Check out the links in the <span style="color:red;font-weight:600;font-size:16px">RED ellipse.</span> |
 |:-:|
@@ -86,7 +86,7 @@ Go to: <script> function button(){ window.open("address");} </script><button onc
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
-### F. Let's Explore A Project. 
+## F. Let's Explore A Project. 
 
 | Question: How does it work? |
 |:-:|
@@ -103,7 +103,7 @@ Go to: <script> function button(){ window.open("address");} </script><button onc
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
-### G. Let's Explore All Together
+##2 G. Let's Explore All Together
 
 1. <span style="color:green;font-weight:700;font-size:20px">Push All Your Desks Together.</span>
 
