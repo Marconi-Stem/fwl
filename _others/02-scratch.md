@@ -6,7 +6,7 @@ category: Scratch
 layout: post
 ---
 
-# A: Start With Scratch
+# B: Start With Scratch
 
 #### Today's Missions:
 
@@ -16,8 +16,10 @@ layout: post
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
-**Start the Day with a word-search. [Downloadable NEED PDF for Games]**
-- PDF should have a word search and a set of lines for students username and password for Scratch.
+**Get your word-search for the day.**
+ 
+- make Downloadable NEED PDF for Games
+- make PDF should have a word search and a set of lines for students username and password for Scratch.
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
@@ -30,7 +32,7 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
-### B. Mental Floss 
+### C. Mental Floss 
 
 > *What is Mental Floss?* 
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cleaning out your brain.&nbsp;&nbsp; ;)
@@ -63,7 +65,7 @@ testing below
 ---
 
 
-### B. Join Scratch
+### D. Join Scratch
 
 | 1. <script> function button(){ window.open("address");} </script> <button onclick="button()">Go to: scratch.mit.edu</button> |
 |:-:|
@@ -73,7 +75,7 @@ testing below
 ---
 
 
-### C. Explore Your Home Page
+### E. Explore Your Home Page
 
 | 1. Check out the links in the <span style="color:red;font-weight:600;font-size:16px">RED ellipse.</span> |
 |:-:|
@@ -84,7 +86,7 @@ testing below
 ---
 
 
-### D. Let's Explore A Project. 
+### F. Let's Explore A Project. 
 
 | Question: How does it work? |
 |:-:|
@@ -101,7 +103,7 @@ testing below
 
 ---
 
-### D. Let's Explore All Together
+### G. Let's Explore All Together
 
 1. <span style="color:green;font-weight:700;font-size:20px">Push All Your Desks Together.</span>
 
