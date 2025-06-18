@@ -14,7 +14,7 @@ The :rotating_light: *Firewalker Protective Lights* :rotating_light: use colorfu
 
 | Quantity | Part |
 | :-: | :-: |
-| One | <img alt="gemma M0" src="/_images/parts/gemma.png" width="90%" /> <br>Adafruit GEMMA-M0 board:<br>[https://www.adafruit.com/product/3501](https://www.adafruit.com/product/3501) |
+| One | <img alt="gemma" src="/_images/parts/gemma.png" width="90%" /> <br>Adafruit GEMMA-M0 board:<br>[https://www.adafruit.com/product/3501](https://www.adafruit.com/product/3501) |
 | 1.5 meters | <img alt="neopixel" src="/_images/parts/neopixel.png" width="90%" /> <br> Adafruit NeoPixel Digital RGB LED Strip, Product ID: 1138 <br>[https://www.adafruit.com/product/1138](https://www.adafruit.com/product/1138) |  
 | ONE | Vibration Switch (FAST):<br>[https://www.adafruit.com/product/1766](https://www.adafruit.com/product/1766)<br>OR<br>Buttons<br>Tactile Switch Assortment: 25 Different Buttons x 10 pcs each - Through Hole and Surface Mount, Product ID: 5493<br>![buttons](/_images/parts/buttons.png)|  
 | ONE | <img alt="batterypack" src="/_images/parts/batterypack.png" width="60%"/><br>AAA Three-Battery-Holder with On/Off Switch:<br>[https://www.adafruit.com/product/727](https://www.adafruit.com/product/727)|  
