@@ -13,7 +13,7 @@ Start the Day with a word-search. [Downloadable NEED PDF for Games]
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
-<center><img alt="Scratch" src="/images/scratch.png/scratch-word.png" width="40%" /></center>
+<center><img alt="Scratch" src="/_images/" width="40%" /></center>
 
 <center>is a free online program that can help you make:<br>
 <span style="color:green;font-weight:700;font-size:16px">Music Videos | Tell Stories | Learn Computer Code<br>
@@ -23,7 +23,8 @@ Start the Day with a word-search. [Downloadable NEED PDF for Games]
 <center><img alt="Scratch" src="/images/scratch.png/01.png" width="50%" />
 </center>
 
----
+<hr style="background-color: rgb(13, 237, 5); height: 3px;">
+
 
 ### Today's Missions:
 
