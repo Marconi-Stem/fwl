@@ -1,17 +1,14 @@
 ---
-title: Scratch
+title: Start With Scratch
 author: MCC
 date: 2025-06-17
 category: Scratch
 layout: post
 ---
 
-# B: Start With Scratch
+## B. Today's Missions:**
 
-#### Today's Missions:
-
-<span style="color:green;font-weight:700;font-size:16px">
-1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask Questions.<br>
+<span style="color:green;font-weight:700;font-size:16px">1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask Questions.<br>
 2. Think! How would you describe Scratch to a friend?</span>
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
@@ -25,54 +22,57 @@ layout: post
 
 <center><img src="/_images/scratch/scratch-word.png" width="50%" /> <br>
 is a :balloon: FREE :balloon: online program that can help you make:<br>
-<span style="color:green;font-weight:700;font-size:16px">Music Videos<br>Tell Stories<br>Learn Computer Code<br><br>Go to: <script> function button(){ window.open("address");} </script><button onclick="button()">SCRATCH.MIT.EDU</button>
-<br><br>
-<img alt="Scratch" src="/_images/scratch/01.png" width="70%" /></center>
+:musical_note: **Music Videos** 
+<br>:dragon: Tell Stories<br>**Learn Computer Code** :sun_with_face: <br><br>
+<img src="/_images/scratch/01.png" width="70%" />
+</center>
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
-### C. Mental Floss 
+### C. Who Uses Scratch & Why?
+
 
 > *What is Mental Floss?* 
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cleaning out your brain.&nbsp;&nbsp; ;)
+{: .block-tip }
 
-|Who Uses Scratch & Why?|
+|Abhi Does!|
 |:-:|
 |<center>Abhi Does!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/_images/scratch/Abhi.png" width="60%" alt="Abhi"> </a> </center>|
 |<center>Natalie Does!<br> <a href="https://www.youtube.com/watch?v=AiYO_unP67w"> <img src="/_images/scratch/natalie.png" width="60%" alt="Natalie"> </a> </center>|
-|<center>Now, you can!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/_images/scratch/scratch.png" width="60%" alt="Getting Started"><br>**Let's Get Started with Scratch**</a> </center>|
+|<center>Now, you can!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/_images/scratch/scratch.png" width="60%" alt="Getting Started"><br></a> </center>|
 
-testing below
+<hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
-<center> Getting Started with Scratch <br> <a href="http://www.youtube.com/watch?feature=player_embedded&v=9jTPZfhuVro" target="_blank"><img src="/_images/scratch/Abhi.png" alt="HERE" width="240" height="180" border="10" /></a></center>
-
-<center>Getting Started with Scratch <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/_images/scratch/scratch.png" width="70%" alt="Getting Started"> </a></center>
-
----
-
-<div class="a">
 ***Did you know?***
   - Early `computer scientists` had backgrounds in **math and languages**, which influenced the way they approached computing.
 
 |Did you see this movie?![turing pic](/_images/scratch/turing.movie.png)|
 |:-:|
-|Alan Turing was a `computer scientist` (*that job-title wasn't even invented yet*). He imagined machines that solved problems by following rules (code). He had one idea called the `Turing Test`, a test to see if machines could fool people!|
 | https://www.youtube.com/watch?v=gtRLmL70TH0 |
 | https://www.create-learn.us/computer-science-curriculum-for-kids |
 
+- `Alan Turing` was a `computer scientist` (*that job-title wasn't even invented yet*). He imagined machines that solved problems by following rules (code). 
+- Turing had many ideas, but one was called the `Turing Test`. He wondered if computers could follow directions AND fool people!
 
----
+
+**Let's Start with Scratch!**
+
+<hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
 ### D. Join Scratch
 
-| 1. <script> function button(){ window.open("address");} </script> <button onclick="button()">Go to: scratch.mit.edu</button> |
-|:-:|
-| **2.** Join and Log-in to your <span style="color:purple;font-weight:600;font-size:18px">Scratch</span> home page. <img alt="join scratch" src="/_images/scratch/site-join-02.circles.png" width="100%" /> |
+1. Go to: <script> function button(){ window.open("address");} </script> <button onclick="button()">scratch.mit.edu</button>
 
+2. Find <span style="color:purple;font-weight:600;font-size:18px">Join Scratch</span> on the home page. <img alt="join scratch" src="/_images/scratch/site-join-02.circles.png" width="100%" />
+3. Write your username and password down on your slip of paper.
+4. Log-in to your page.
 
----
+<hr style="background-color: rgb(13, 237, 5); height: 3px;">
+
+Go to: <script> function button(){ window.open("address");} </script><button onclick="button()">SCRATCH.MIT.EDU</button> <br><br> 
 
 
 ### E. Explore Your Home Page
@@ -83,7 +83,7 @@ testing below
 | 3. Your Home page should look like this: ![scratch.page1](/_images/scratch/scratch.page1.png) <br> Explore all the locations. Where do they go?|
 | Which one is for *Help*,  `Creating a Project`, *Chatting with the* `community`, *Other's Projects*.
 
----
+<hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
 ### F. Let's Explore A Project. 
@@ -94,19 +94,19 @@ testing below
 | [https://scratch.mit.edu/projects/1182854333/](https://scratch.mit.edu/projects/1182854333/)
 
 
----
+<hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
 5.
 ![goto.no.1099373392.Inspect.COMMANDS.6](/_images/scratch/goto.no.1099373392.Inspect.COMMANDS.6.png)
 
 
----
+<hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 ### G. Let's Explore All Together
 
 1. <span style="color:green;font-weight:700;font-size:20px">Push All Your Desks Together.</span>
 
----
+<hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 End
