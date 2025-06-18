@@ -1,24 +1,34 @@
 ---
-title: Start With Scratch
+title: Scratch
 author: MCC
 date: 2025-06-17
 category: Scratch
 layout: post
 ---
 
-# Day 1: Start With Scratch
+# A: Start With Scratch
 
-Start the Day with a word-search. [Downloadable NEED PDF for Games]
+#### Today's Missions:
+
+<span style="color:green;font-weight:700;font-size:16px">
+1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask Questions.
+<br>
+2. Think! How would you describe Scratch to a friend? 
+</span>
+
+<hr style="background-color: rgb(13, 237, 5); height: 3px;">
+
+**Start the Day with a word-search. [Downloadable NEED PDF for Games]**
 - PDF should have a word search and a set of lines for students username and password for Scratch.
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 <center><img alt="Scratch" src="/_images/scratch/scratch-word.png" width="50%" /></center>
 
-<center>is a free online program that can help you make:<br>
-<span style="color:green;font-weight:700;font-size:16px">Music Videos | Tell Stories | Learn Computer Code<br>
-@ scratch.mit.edu (make button)
-</span></center>
+<center>is a :balloon: FREE :balloon: online program that can help you make:<br>
+<span style="color:green;font-weight:700;font-size:16px">Music Videos | Tell Stories | Learn Computer Code<br>Go to: 
+<script> function button(){ window.open("address");} </script><button onclick="button()">scratch.mit.edu</button>
+</center>
 <br>
 <center><img alt="Scratch" src="/_images/scratch/01.png" width="70%" />
 </center>
@@ -26,19 +36,8 @@ Start the Day with a word-search. [Downloadable NEED PDF for Games]
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
-### Today's Missions:
 
-<span style="color:green;font-weight:700;font-size:16px">
-1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask Questions.
-</span>
-<br><br>
-<span style="color:green;font-weight:900;font-size:16px">
-2. Think! How would you describe Scratch to a friend?
-</span>
-
-<hr style="background-color: rgb(13, 237, 5); height: 3px;">
-
-### A. Mental Floss 
+### B. Mental Floss 
 
 >*What is Mental Floss? 
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cleaning out your brain.*&nbsp;&nbsp; ;)
