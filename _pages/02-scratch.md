@@ -32,7 +32,7 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 ## C. Who Uses Scratch & Why?
 
 
-> *What is Mental Floss?* 
+> *What is Mental Floss?*   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cleaning out your brain.&nbsp;&nbsp; ;)
 {: .block-tip }
 
