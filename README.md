@@ -4,9 +4,9 @@ title: Blast Off With The Neotrellis
 permalink: /
 ---
 
-## Blast Off with the **Neotrellis** Sound Synthesizer! (43728)
+**Blast Off with the **Neotrellis** Sound Synthesizer!** (43728)
 
-> The Adafruit NeoTrellis M4 is like a mini-computer with a grid of colorful, light-up buttons that you can press. It's a fun and easy-to-use device for creating light shows, music, or even simple games without needing extensive knowledge of electronics.
+> The NeoTrellis-M4 is like a mini-computer with a grid of colorful, light-up buttons that you can press. It's a fun and easy-to-use device for creating light shows, music, or even simple games without needing extensive knowledge of electronics. This three-day course is designed to introduce Scratch and Python. Both learning tools allow children to produce music or short video to better understand computers.
 {: .block-tip }
 
 1. ![neotrellis](/images/parts/neotrellis.jpg)
@@ -16,7 +16,9 @@ permalink: /
 > 9 AM - Noon, July 29-31, 2025 
 {: .block-warning }  
 
-- Cost \$350 / Session (*or $315 / Chatham Marconi Supporting Members or above*)
+**Cost**  
+- \$350 / session *OR* 
+- \$315 / session for Chatham Marconi Supporting Members and above.
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
@@ -26,11 +28,11 @@ permalink: /
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
-This programming and electronics course was designed for the Marconi Radio Museum by Matt Curcio.
+**Did you know?**
+- *STEM = Science, Technology, Engineering, and Math*
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
-**Did you know?**
-- *STEM = Science, Technology, Engineering, and Math*
+This programming and electronics course was designed for the Marconi Radio Museum by Matt Curcio.
 
 <hr style="background-color: rgb(237, 24, 5); height: 3px;">
