@@ -4,26 +4,29 @@ title: Blast Off With The Neotrellis
 permalink: /
 ---
 
-Blast Off with the **Neotrellis sound maker**! (43728)
+## Blast Off with the **Neotrellis** Sound Synthesizer! (43728)
 
-> July, 29-31 2025, 9 AM - Noon  
+> The Adafruit NeoTrellis M4 is like a mini-computer with a grid of colorful, light-up buttons that you can press. It's a fun and easy-to-use device for creating light shows, music, or even simple games without needing extensive knowledge of electronics.
+{: .block-tip }
+
+1. ![neotrellis](/images/parts/neotrellis.jpg)
+
+2. <img src="/images/parts/neotrellis.jpg" width="100%" />
+
+> 9 AM - Noon, July 29-31, 2025 
 {: .block-warning }  
 
 - Cost \$350 / Session (*or $315 / Chatham Marconi Supporting Members or above*)
-- 
-<hr style="background-color: rgb(5, 133, 237); height: 3px;">
-
-- The **Neotrellis** sound controller has sound capabilities and uses colorful Neopixel LEDS.
-- 
-- 
--  The device can be programmed to play several different games.<br><br>
-
-- This site has lessons in <img src="/_images/scratch/scratch-word.png" width="25%" />, beginner <img src="/_images/python/python-word2.png" width="25%" />, and to use a microcontroller, <img src="/_images/parts/gemma.png" width="15%" />.
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
-This programming and electronics course was designed for the Marconi Radio Museum by Matt Curcio (c) 
-- [Summer STEM classes](https://www.chathammarconi.org/summer-stem-classes).
+-  The Neotrellis device can be programmed to play several different games.
+
+- This site introduces lessons in <img src="/images/scratch/scratch-word.png" width="25%" />, and beginner <img src="/images/python/python-word2.png" width="25%" />, so that you can get play and programming quickly.
+
+<hr style="background-color: rgb(5, 133, 237); height: 3px;">
+
+This programming and electronics course was designed for the Marconi Radio Museum by Matt Curcio.
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
