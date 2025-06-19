@@ -8,8 +8,7 @@ layout: post
 
 ## B. Today's Missions:
 
-<span style="color:green;font-weight:700;font-size:16px">1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask Questions.<br>
-2. Think! How would you describe Scratch to a friend?</span>
+<span style="color:green;font-weight:700;font-size:16px">1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask Questions.<br>2. Think! How would you describe Scratch to a friend?</span>
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
