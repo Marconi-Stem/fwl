@@ -38,8 +38,11 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 
 |Abhi Does!|
 |:-:|
-|<center>Abhi Does!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch/Abhi.png" width="60%" alt="Abhi"> </a> </center>|
-|<center>Natalie Does!<br> <a href="https://www.youtube.com/watch?v=AiYO_unP67w"> <img src="/images/scratch/natalie.png" width="60%" alt="Natalie"> </a> </center>|
+|<a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch/Abhi.png" width="60%" alt="Abhi"> </a> </center>|
+
+| Natalie Does!|
+|:-:|
+|<a href="https://www.youtube.com/watch?v=AiYO_unP67w"> <img src="/images/scratch/natalie.png" width="60%" alt="Natalie"> </a> </center>|
 |<center>Now, you can!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch/scratch.png" width="60%" alt="Getting Started"><br></a> </center>|
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">

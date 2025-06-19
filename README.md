@@ -1,10 +1,13 @@
 ---
 layout: home
-title: Marconi Museum Summer STEM Classes
+title: Marconi Museum July STEM Class
 permalink: /
 ---
 
-> July, 2025, Marconi Summer STEM course
+The **Neotrellis** sound maker.
+
+> July, 29-31 2025, 9 AM - Noon  
+{: .block-warning }  
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
@@ -13,9 +16,9 @@ permalink: /
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
-- The *Firewalker Protective Lights* use colorful Neopixel LEDS that may be placed on a bike helmet or sewn to a coat.<br><br>
+- The **Neotrellis** sound maker uses colorful Neopixel LEDS and has sound capabilities. The device can be programmed to play several different games as well.<br><br>
 
-- This site is ***about learning*** <img alt="scratch" src="/_images/scratch/scratch-word.png" width="25%" />, beginner <img alt="python" src="/_images/python/python-word2.png" width="25%" />, and to use the Gemma-M0 microcontroller, <img alt="gemma" src="/_images/parts/gemma.png" width="15%" />.
+- This site is ***about learning*** <img alt="scratch" src="/_images/scratch/scratch-word.png" width="25%" />, beginner <img alt="python" src="/_images/python/python-word2.png" width="25%" />, and to use a microcontroller, <img alt="gemma" src="/_images/parts/gemma.png" width="15%" />.
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
