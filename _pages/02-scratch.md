@@ -21,8 +21,8 @@ layout: post
 
 <center><img src="/images/scratch/scratch-word.png" width="50%" /> <br>
 is a :balloon: FREE :balloon: online program that can help you make:<br>
-:musical_note: **Music Videos** 
-<br>:dragon: Tell Stories<br>**Learn Computer Code** :sun_with_face: <br><br>
+:musical_note: Music Videos 
+<br>:alien: Tell Stories<br>:sun_with_face: Learn Computer Code <br><br>
 <img src="/images/scratch/01.png" width="70%" />
 </center>
 
