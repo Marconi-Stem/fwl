@@ -6,7 +6,7 @@ category: Scratch
 layout: post
 ---
 
-## B. Today's Missions:
+##### B. Today's Missions:
 
 <span style="color:green;font-weight:700;font-size:16px">1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask Questions.<br>2. Think! How would you describe Scratch to a friend?</span>
 
@@ -43,7 +43,7 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 | Natalie Does!|
 |:-:|
 |<a href="https://www.youtube.com/watch?v=AiYO_unP67w"> <img src="/images/scratch/natalie.png" width="60%" alt="Natalie"> </a> </center>|
-|<center>Now, you can!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch/scratch.png" width="60%" alt="Getting Started"><br></a> </center>|
+|<center>Now, you can learn!<br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch/scratch.png" width="60%" alt="Getting Started"><br></a> </center>|
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
@@ -64,31 +64,38 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
-## D. Join Scratch
+##### D. Join Scratch
 
 1. Go to: <script> function button(){ window.open("address");} </script> <button onclick="button()">scratch.mit.edu</button>
 
-2. Find <span style="color:purple;font-weight:600;font-size:18px">Join Scratch</span> on the home page. <img alt="join scratch" src="/images/scratch/site-join-02.circles.png" width="100%" />
-3. Write your username and password down on your slip of paper.
-4. Log-in to your page.
+2. Find <span style="color:purple;font-weight:600;font-size:18px">Join Scratch</span> AND *SIGN-UP*. <img alt="join scratch" src="/images/scratch/site-join-02.circles.png" width="100%" />
+3. 
+| Write Down Your Username & Password |
+|:-|
+|**Username**: | 
+|**Password**: |
 
-<hr style="background-color: rgb(13, 237, 5); height: 3px;">
-
-Go to: <script> function button(){ window.open("address");} </script><button onclick="button()">SCRATCH.MIT.EDU</button> <br><br> 
-
-
-## E. Explore Your Home Page
-
-| 1. Check out the links in the <span style="color:red;font-weight:600;font-size:16px">RED ellipse.</span> |
-|:-:|
-| 2. <span style="color:green;font-weight:700;font-size:16px">Explore</span> the **Help, Ideas, & Projects by students**, like you! |
-| 3. Your Home page should look like this: ![scratch.page1](/images/scratch/scratch.page1.png) <br> Explore all the locations. Where do they go?|
-| Which one is for *Help*,  `Creating a Project`, *Chatting with the* `community`, *Other's Projects*.
+4. Log-in to <img src="/images/scratch/scratch-word.png" width="50%" />
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
-## F. Let's Explore A Project. 
+##### E. Explore Scratch's Home Page
+
+The scratch home page has three areas. 
+1. The <span style="color:red;font-weight:600;font-size:16px">RED OVAL</span> shows your <span style="color:red;font-weight:600;font-size:16px">ACCOUNT INFO</span> on the Top-Right. :arrow_forward:
+
+
+2. <span style="color:green;font-weight:700;font-size:16px">Explore</span> the **Help, Ideas, & Projects by students**, like you!
+
+3. Your Home page should look like this: ![scratch.page1](/images/scratch/scratch.page1.png) <br> Explore all the locations. Where do they go?
+
+Which one is for *Help*,  `Creating a Project`, *Chatting with the* `community`, *Other's Projects*.
+
+<hr style="background-color: rgb(13, 237, 5); height: 3px;">
+
+
+##### F. Let's Explore A Project. 
 
 | Question: How does it work? |
 |:-:|
