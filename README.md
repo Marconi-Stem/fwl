@@ -4,7 +4,7 @@ title: Blast Off With The Neotrellis(43728)
 permalink: /
 ---
 
-**Making A Synthesizer!** (43728)
+**Make A Synthesizer!** (43728)
 
 > 9 AM - Noon, July 29-31, 2025 
 {: .block-warning }
@@ -12,11 +12,11 @@ permalink: /
 > The NeoTrellis-M4 is like a mini-computer with a grid of colorful, light-up buttons that you can press. It's a fun and easy-to-use device for creating light shows, music, or even simple games without needing extensive knowledge of electronics. This three-day course is designed to introduce Scratch, Python and micro-controllers. These tools allow children to produce music or short video to better understand computers.
 {: .block-tip }
 
-1. ![neotrellis](/images/parts/neotrellis.jpg)
-2. 
+1. ![neotrellis](/images/parts/neotrellis.jpg)  
+
 > **Cost**  
-> \$350 / session *OR* 
-> \$315 / session for Chatham Marconi Supporting Members and above.
+> \$350 / session *OR*  
+> \$315 / session for Chatham Marconi Supporting Members and above.  
 {: .block-warning }
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
