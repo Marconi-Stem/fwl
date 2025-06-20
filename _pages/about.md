@@ -8,30 +8,7 @@ layout: post
 
 This is "_pages/about.md"
 
-SCRATCH NOTES 2
-
-Fundamental concepts - top 5 commands/concepts:
-
-1. Events & Input & Output 
-   - (When Green Flag Clicked, When Key Pressed, When Sprite Clicked):
-   - Concept: Understanding that programs don't just "run" on their own, but respond to triggers or "events." This is crucial for interactive projects.
-   - Why it's important: It's the starting point for almost every Scratch project. Kids learn how to initiate actions in their programs, whether it's by clicking a green flag to start the whole thing, pressing a key to control a character, or clicking on a sprite to make it do something specific. It introduces the idea of event-driven programming.
-
-2. Sequencing & Blocks of Code:
-   - Concept: The idea that instructions are executed in a specific order, from top to bottom.
-   - Why it's important: This is the most basic building block of any program. Without understanding sequencing, code won't behave as expected. Simple projects like making a character move across the screen and then say something immediately reinforce this.
-
-3. Loops (Repeat, Forever):
-   - Concept: Repeating a set of instructions multiple times or indefinitely.
-   - Why it's important: Loops are incredibly powerful for efficiency and creating animations or repetitive actions. Instead of dragging 100 "move 10 steps" blocks, they learn to use a single "repeat 100" block. The "forever" loop is essential for continuous actions in games or animations (e.g., a character constantly moving or spinning).
-
-4. Conditionals (If...then, If...then...else):
-   - Concept: Making decisions in a program based on whether a condition is true or false.
-   - Why it's important: This introduces logic and allows for more dynamic and interactive programs. For example, "if on edge, bounce" makes a sprite react to the screen boundaries, or "if touching [other sprite] then [do something]" enables interactions between characters in a game. This is a crucial step towards problem-solving.
-
-5. Variables (Creating and Using Variables):
-   - Concept: Storing and changing data within a program (e.g., a score, a timer, or a character's    - Why it's important: Variables allow programs to keep track of information that changes, which is fundamental for creating games (scores, lives), simulations, or interactive stories. It introduces the idea of dynamic data and memory in a program.
-
+---
 
 
 https://www.youtube.com/watch?v=qKFn66dzdz0
