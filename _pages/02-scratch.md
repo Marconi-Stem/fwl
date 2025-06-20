@@ -19,12 +19,11 @@ layout: post
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
-<center><img src="/images/scratch/scratch-word.png" width="50%" /> <br>
+<center> ![](/images/scratch/scratch-word.png) <br>
 is a :balloon: FREE :balloon: online program that can help you make:<br>
 :musical_note: Music Videos 
 <br>:alien: Tell Stories<br>:sun_with_face: Learn Computer Code <br><br>
-<img src="/images/scratch/01.png" width="70%" />
-</center>
+![](/images/scratch/01.png) </center>
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
@@ -50,13 +49,13 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 ***Did you know?***
   - Early `computer scientists` had backgrounds in **math and languages**, which influenced the way they approached computing.
 
-|Did you see this movie?![turing pic](/images/scratch/turing.movie.png)|
+|Did you see this movie?|
+| ![turing pic](/images/scratch/turing.movie.png) |
 |:-:|
 | https://www.youtube.com/watch?v=gtRLmL70TH0 |
 | https://www.create-learn.us/computer-science-curriculum-for-kids |
-
-- `Alan Turing` was a `computer scientist` (*that job-title wasn't even invented yet*). He imagined machines that solved problems by following rules (code). 
-- Turing had many ideas, but one was called the `Turing Test`. He wondered if computers could follow directions AND fool people!
+| `Alan Turing` was a `computer scientist` (*that job-title wasn't even invented yet*). He imagined machines that solved problems by following rules (code). |
+| Turing had many ideas, but one was called the `Turing Test`. He wondered if computers could follow directions AND fool people! |
 
 
 **Let's Start with Scratch!**
@@ -66,23 +65,24 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 
 ##### D. Join Scratch
 
-1. Go to: <script> function button(){ window.open("address");} </script> <button onclick="button()">scratch.mit.edu</button>
+1. Go to: <script> function button(){ window.open("address");} </script> <button onclick="button()">scratch.mit.edu</button>  
 
-2. Find <span style="color:purple;font-weight:600;font-size:18px">Join Scratch</span> AND *SIGN-UP*. <img alt="join scratch" src="/images/scratch/site-join-02.circles.png" width="100%" />
-3. 
+2. Find <span style="color:purple;font-weight:600;font-size:18px">Join Scratch</span> AND *SIGN-UP*. ![Join scratch](/images/scratch/site-join-02.circles.png)  
+   
+3.  
 | Write Down Your Username & Password |
 |:-|
-|**Username**: | 
+|**Username**: |
 |**Password**: |
 
-4. Log-in to <img src="/images/scratch/scratch-word.png" width="50%" />
+1. Log-in to ![](/images/scratch/scratch-word.png)  
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 
 ##### E. Explore Scratch's Home Page
 
-The scratch home page has three areas. 
+The scratch home page has three areas.  
 1. The <span style="color:red;font-weight:600;font-size:16px">RED OVAL</span> shows your <span style="color:red;font-weight:600;font-size:16px">ACCOUNT INFO</span> on the Top-Right. :arrow_forward:
 
 
