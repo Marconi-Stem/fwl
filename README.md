@@ -32,6 +32,7 @@ permalink: /
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
-This programming and electronics course was designed for the Marconi Radio Museum by Matt Curcio.
+This programming and electronics course was designed for the Marconi Radio Museum
+by Matt Curcio.
 
 <hr style="background-color: rgb(237, 24, 5); height: 3px;">
