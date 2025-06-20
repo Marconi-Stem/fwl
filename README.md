@@ -23,7 +23,8 @@ permalink: /
 
 | The Neotrellis device can be programmed to play several different games. |
 |-|
-| This site introduces lessons in !/images/scratch/scratch-word.png" width="25%" />, and beginner <img src="/images/python/python-word2.png" width="25%" />, so that you can get play and programming quickly |
+| This site introduces lessons in ![](/images/scratch/scratch-word.png) 
+| and ![](images/python/python-word2.png)To play and programming quickly |
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
