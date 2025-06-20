@@ -1,10 +1,10 @@
 # Configurations
-title:            MCC Gitbook
-longtitle:        A Gitbook
+title:            Make Sound & Noise With The Neotrellis
+longtitle:        A Beginner Course Introducing Scratch, Python and the Neotrellis, which has a controller that can be programmed with CircuitPython. 
 author:           MCC
 email:            mcurcio@duck.com
 description: >
-  Build a GitBook.
+  This mini-course is for 10-14 year olds. It is meant to teach children basic concepts of programming computers. It uses the MIT platform Scratch and the popular coding language Python. Both are excellent for eager minds.
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -56,7 +56,6 @@ collections:
 
 ordered_collections:
   - pages
-  - posts
 
 page_width: 800px
 
