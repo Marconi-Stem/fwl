@@ -52,3 +52,197 @@ gadjama bimbala oo beri gadjama gaga di gadjama affalo pinx
 gaga di bumbalo bumbalo gadjamen  
 gaga di bling blong  
 gaga blung
+
+## Ripping video foff Youtube using Linux
+
+Linux provides powerful command-line tools that make this task quite straightforward. 
+
+You'll primarily need two pieces of software:
+
+1.  **yt-dlp**: A highly capable command-line program to download videos from YouTube (and many other sites). It's a fork of the popular `youtube-dl` and is actively maintained.
+2.  **FFmpeg**: A complete, cross-platform solution to record, convert and stream audio and video. You'll use this to cut the downloaded video to your desired snippet.
+
+Here's a step-by-step procedure:
+
+### Step 1: Install yt-dlp and FFmpeg
+
+Most Linux distributions have these packages in their repositories.
+
+**For Debian/Ubuntu-based systems (like Linux Mint, Pop\!\_OS):**
+
+```bash
+sudo apt update
+sudo apt install yt-dlp ffmpeg
+```
+
+If you're using a different distribution, consult your package manager's documentation or the official websites for `yt-dlp` and `FFmpeg` for installation instructions.
+
+### Step 2: Download the YouTube video (or a portion of it)
+
+While you *can* download the entire video and then cut it, `yt-dlp` in conjunction with `FFmpeg` can actually download *only* the specific portion you want, which is much more efficient for long videos.
+
+You'll need the YouTube video URL and the start/end times for your 5-10 second snippet. Let's say you want a 7-second clip starting at 1 minute and 30 seconds into the video.
+
+**Command to download a specific section:**
+
+```bash
+yt-dlp --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:01:30 -to 00:01:37" -f bestvideo+bestaudio --merge-output-format mp4 "YOUR_YOUTUBE_VIDEO_URL" -o "output_clip.mp4"
+```
+
+**Let's break down this command:**
+
+  * `yt-dlp`: Calls the `yt-dlp` program.
+  * `--external-downloader ffmpeg`: Tells `yt-dlp` to use `ffmpeg` for the download process. This is crucial for cutting on the fly.
+  * `--external-downloader-args "ffmpeg_i:-ss 00:01:30 -to 00:01:37"`: These are arguments passed directly to `ffmpeg`.
+      * `-ss 00:01:30`: Specifies the **start time** (HH:MM:SS format). In this example, it starts at 1 minute and 30 seconds.
+      * `-to 00:01:37`: Specifies the **end time** (HH:MM:SS format). This will make your clip 7 seconds long (00:01:37 - 00:01:30 = 00:00:07).
+      * **Important Note on `-ss` placement**: When `-ss` is placed *before* the input file (`-i`) (as shown here with `ffmpeg_i:`), FFmpeg performs a "fast seek," which is quicker but might not be frame-accurate at the beginning. If absolute frame accuracy is critical for your starting point, you might need to download a slightly larger segment and then perform a second `ffmpeg` cut (see "Alternative: Cut an already downloaded video" below). However, for a 5-10 second YouTube snippet, this method is usually perfectly fine.
+  * `-f bestvideo+bestaudio`: Downloads the best available video and audio quality.
+  * `--merge-output-format mp4`: Ensures that if the video and audio streams are separate, they are merged into a single MP4 file.
+  * `"YOUR_YOUTUBE_VIDEO_URL"`: **Replace this with the actual URL of the YouTube video.** Make sure to enclose it in double quotes.
+  * `-o "output_clip.mp4"`: Specifies the output filename for your snippet. You can change `output_clip.mp4` to whatever you like.
+
+**Example usage:**
+
+The YouTube video URL is `https://www.youtube.com/watch?v=39vX3u-9Gt0` and you want a 10-second clip starting at 0:00.
+
+```bash
+yt-dlp --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:00:00 -to 00:00:10" -f bestvideo+bestaudio --merge-output-format mp4 "https://www.youtube.com/watch?v=39vX3u-9Gt0" -o "my_10_second_snippet.mp4"
+```
+
+### Alternative: Cut an already downloaded video
+
+If you already have the full video downloaded (e.g., as `full_video.mp4`), you can use `ffmpeg` directly to cut a snippet:
+
+```bash
+ffmpeg -ss 00:01:30 -i "full_video.mp4" -to 00:01:37 -c copy "output_clip.mp4"
+```
+
+**Explanation of this command:**
+
+  * `ffmpeg`: Calls the `ffmpeg` program.
+  * `-ss 00:01:30`: Specifies the **start time**.
+  * `-i "full_video.mp4"`: Specifies the **input file**.
+  * `-to 00:01:37`: Specifies the **end time**.
+  * `-c copy`: This is important\! It tells `ffmpeg` to directly copy the video and audio streams without re-encoding them. This makes the process incredibly fast and avoids any loss of quality.
+  * `"output_clip.mp4"`: The name of your output snippet file.
+
+**Important Considerations for `-c copy`:**
+
+When using `-c copy`, `ffmpeg` can only cut at "keyframes" (also known as I-frames). This means your cut might be slightly off from your exact specified time, usually to the nearest preceding keyframe. For a 5-10 second clip, this minor inaccuracy is usually acceptable.
+
+If you need *frame-accurate* cuts, you would omit `-c copy` (which forces re-encoding), but this will take significantly longer and might result in a slight quality loss due to re-compression. For most snippets, `-c copy` is preferred.
+
+Choose the method that best suits your needs\! The `yt-dlp` combined with `ffmpeg` method is generally more efficient for directly extracting snippets from YouTube.
+
+---
+
+## How to make pcitures into charcoal srawings with GIMP.
+
+
+### Method 1: Simple Pencil Sketch Effect
+
+This method is quick and produces a clean line drawing effect.
+
+1.  **Open your image in GIMP:**
+    * Go to `File > Open...` and select your iPhone photo.
+
+2.  **Duplicate the Background Layer:**
+    * In the Layers panel (usually on the right side), right-click on your "Background" layer and choose `Duplicate Layer`. You should now have two identical layers.
+
+3.  **Desaturate the Duplicate Layer:**
+    * Select the **top** (duplicate) layer.
+    * Go to `Colors > Desaturate > Desaturate...`
+    * In the dialog box, you can usually leave the default "Luminosity" mode, or experiment with "Lightness" or "Average" to see which gives the best black and white conversion for your image. Click `OK`.
+
+4.  **Invert Colors of the Desaturated Layer:**
+    * With the top layer still selected, go to `Colors > Invert`. Your image will now look like a photo negative.
+
+5.  **Change Layer Mode to "Dodge":**
+    * In the Layers panel, with the top layer selected, change the **Mode** dropdown from "Normal" to `Dodge`. Your image will likely turn completely white at this point – don't worry, that's expected!
+
+6.  **Apply Gaussian Blur:**
+    * Go to `Filters > Blur > Gaussian Blur...`
+    * A dialog box will appear. You'll need to adjust the "Radius" for both X and Y. Start with a small value, like `5` to `10` pixels, and slowly increase it. As you increase the radius, you'll start to see the sketch lines appear.
+    * The exact value depends on your image resolution and desired effect. Keep increasing it until you get a good balance of lines and detail. Click `OK` when you're happy.
+
+7.  **Adjust Levels for Contrast (Optional but Recommended):**
+    * To fine-tune the sketch's darkness and contrast, go to `Colors > Levels...`
+    * In the "Input Levels" section, you'll see three triangles (black, grey, white).
+        * Drag the **black triangle** (left) slightly to the right to make the darker lines more prominent.
+        * Drag the **white triangle** (right) slightly to the left to brighten the lighter areas and make them more like white paper.
+        * Experiment with the **grey triangle** (middle) to adjust the overall mid-tones.
+    * Click `OK`.
+
+This should give you a good pencil sketch effect!
+
+### Method 2: More Artistic Pencil/Charcoal Look (Using `Value Propagate` or `Sobel`)
+
+This method can give a more textured or "drawn" feel, sometimes leaning towards charcoal.
+
+**A) Using Value Propagate (often results in a softer sketch):**
+
+Follow steps 1-5 from Method 1 (Open, Duplicate, Desaturate, Invert, Change to Dodge). Then, instead of Gaussian Blur, do this:
+
+6.  **Apply Value Propagate:**
+    * Go to `Filters > Distorts > Value Propagate...`
+    * Select the `More black (smaller value)` radio button.
+    * Click `OK`.
+    * **Repeat this filter (Ctrl+F) two or three more times** until you get a good sketch effect. Each time you apply it, the lines will become more defined.
+
+7.  **Adjust Levels for Contrast (Optional):**
+    * Same as Step 7 in Method 1 (`Colors > Levels...`).
+
+**B) Using Edge Detect (can give sharper, more defined lines):**
+
+1.  **Open your image in GIMP.**
+
+2.  **Duplicate the Background Layer:**
+    * Right-click on your "Background" layer and choose `Duplicate Layer`.
+
+3.  **Desaturate the Duplicate Layer:**
+    * Select the **top** (duplicate) layer.
+    * Go to `Colors > Desaturate > Desaturate...` and click `OK`.
+
+4.  **Apply an Edge Detection Filter:**
+    * Go to `Filters > Edge-Detect > Sobel` (or `Neon`, `Edge`, etc. - experiment!).
+    * For **Sobel**, you'll get a grayscale image with edges highlighted. You might want to tick "Wrap" or "Black background" depending on your preference. Click `OK`.
+    * For **Neon**, set Intensity to `0` and Radius to around `5`. Then `Colors > Invert` that layer.
+
+5.  **Adjust Levels on the Edge Layer (Crucial for a clean sketch):**
+    * With your edge-detected layer selected, go to `Colors > Levels...`
+    * Drag the **black triangle** (left) significantly to the right to remove faint noise and make the background truly white.
+    * Drag the **white triangle** (right) slightly to the left to darken the lines.
+    * Click `OK`.
+
+6.  **Change Layer Mode to "Multiply":**
+    * In the Layers panel, change the **Mode** of the edge-detected layer to `Multiply`. This will blend the lines with your original (or a white) background.
+
+7.  **Add a New White Layer (Optional but Recommended):**
+    * Go to `Layer > New Layer...` and choose `White` as the fill.
+    * Drag this new white layer **below** your edge-detected layer but **above** your original background image. This ensures a clean white "paper" background for your drawing. You can even hide your original background layer if you just want the sketch.
+
+8.  **Fine-tune Opacity:**
+    * You can adjust the **Opacity** of the edge-detected layer in the Layers panel to make the lines lighter or darker.
+
+### Charcoal Specific Touches:
+
+To make it look more like charcoal, which often has a grainier, softer, and sometimes smudged appearance, you can add these steps after any of the above methods:
+
+* **Add Noise:**
+    * On your sketch layer, go to `Filters > Noise > HSV Noise...`
+    * Adjust the "Holdness" and "Hue", "Saturation", "Value" sliders to introduce a subtle grain that mimics charcoal texture. Keep it low to avoid making it look digital.
+
+* **Slight Gaussian Blur (again):**
+    * A very subtle Gaussian blur (`Filters > Blur > Gaussian Blur...` with a radius of `0.5` to `1.5`) can soften the lines slightly, making them less sharp and more smudged like charcoal.
+
+* **Desaturate to Grayscale (if not already):**
+    * Ensure your final image is completely grayscale by going to `Image > Mode > Grayscale`.
+
+* **Optional: Add a Paper Texture:**
+    * Find a subtle paper texture image online (e.g., a scanned sheet of drawing paper).
+    * `File > Open as Layers...` and select your paper texture.
+    * Place this paper texture layer **below** your sketch layer but **above** any solid white background layer.
+    * Change the blending mode of the paper texture layer (e.g., `Overlay`, `Soft Light`, or `Multiply`) and adjust its opacity to subtly show through your drawing, giving it a more authentic feel.
+
+Remember that experimentation is key in GIMP! Play around with the filter settings, layer modes, and opacity until you achieve the exact pencil or charcoal look you desire. Every photo will react differently, so be prepared to make minor adjustments.
