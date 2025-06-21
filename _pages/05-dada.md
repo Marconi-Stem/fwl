@@ -6,9 +6,9 @@ layout: post
 ---
 
 
-https://www.youtube.com/watch?v=qKFn66dzdz0
+[i zimbra](https://www.youtube.com/watch?v=qKFn66dzdz0)
 
-I Zimbra - Talking Heads
+i zimbra - Talking Heads
 
 Gadji beri bimba clandridi
 Lauli lonni cadori gadjam
@@ -51,7 +51,7 @@ gaga blung
 <hr style="background-color: rgb(237, 40, 5); height: 3px;">
 
 
-## Ripping video foff Youtube using Linux
+## A. Ripping video foff Youtube using Linux
 
 Linux provides powerful command-line tools that make this task quite straightforward.
 
@@ -133,7 +133,7 @@ Choose the method that best suits your needs\! The `yt-dlp` combined with `ffmpe
 
 <hr style="background-color: rgb(237, 40, 5); height: 3px;">
 
-## How to make pcitures into charcoal srawings with GIMP.
+## B. How to make pcitures into charcoal srawings with GIMP.
 
 
 ### Method 1: Simple Pencil Sketch Effect
@@ -247,7 +247,7 @@ Remember that experimentation is key in GIMP! Play around with the filter settin
 <hr style="background-color: rgb(237, 40, 5); height: 3px;">
 
 
-## Scratch Video
+## C. Scratch Video
 
 
 That's a great idea for a Scratch project\! While Scratch isn't primarily a video editing tool, you can absolutely create a slideshow-style "video" with pictures and a soundtrack. It will feel much like a stop-motion animation or a sequence of scenes.
