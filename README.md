@@ -17,13 +17,13 @@ permalink: /
 > \$315 / session for Chatham Marconi Supporting Members and above.  
 {: .block-warning }
 
-![neotrellis](/images/parts/neotrellis.jpg)  
+<center> ![neotrellis](/images/parts/neotrellis.jpg) </center> 
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
 The Neotrellis device can be programmed to play several different games.    
 This site introduces lessons in  
-<center>![Scratch](/images/scratch/scratch-word.png) <br> and <br> ![Python](images/python/python-word2.png)</center>
+<center> ![Scratch](/images/scratch/scratch-word.png) <br> and <br> ![Python](images/python/python-word2.png) </center>
 To play and programming quickly  
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">

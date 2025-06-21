@@ -6,13 +6,20 @@ category: Scratch
 layout: post
 ---
 
-##### B. Today's Missions:
+### Day 1 - Today's Missions:
 
 <span style="color:green;font-weight:700;font-size:16px">1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask Questions.<br>2. Think! How would you describe Scratch to a friend?</span>
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
 **Get your word-search for the day.**
+
+<div class="pdf-container">
+    <iframe src="dir/doc.pdf" height="600" width="100%" allowFullScreen="true">
+    </iframe>
+</div>
+
+Print the Word-Search
 
 - make Downloadable NEED PDF for Games
 - make PDF should have a word search and a set of lines for students username and password for Scratch.
@@ -50,8 +57,8 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
   - Early `computer scientists` had backgrounds in **math and languages**, which influenced the way they approached computing.
 
 |Did you see this movie?|
-| ![turing pic](/images/scratch/turing.movie.png) |
 |:-:|
+| ![turing pic](/images/scratch/turing.movie.png) |
 | https://www.youtube.com/watch?v=gtRLmL70TH0 |
 | https://www.create-learn.us/computer-science-curriculum-for-kids |
 | `Alan Turing` was a `computer scientist` (*that job-title wasn't even invented yet*). He imagined machines that solved problems by following rules (code). |
@@ -67,7 +74,7 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 
 1. Go to: <script> function button(){ window.open("address");} </script> <button onclick="button()">scratch.mit.edu</button>
 
-2. Find <span style="color:purple;font-weight:600;font-size:18px">Join Scratch</span> AND *SIGN-UP*. ![Join scratch](/images/scratch/site-join-02.circles.png)
+2. Find <span style="color:purple;font-weight:600;font-size:18px">Join Scratch</span> and *SIGN-UP*. ![Join scratch](/images/scratch/site-join-02.circles.png)
 
 3.
 | Write Down Your Username & Password |
@@ -75,7 +82,8 @@ is a :balloon: FREE :balloon: online program that can help you make:<br>
 |**Username**: |
 |**Password**: |
 
-1. Log-in to ![](/images/scratch/scratch-word.png)
+1. Log-in to  
+   ![](/images/scratch/scratch-word.png)
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
