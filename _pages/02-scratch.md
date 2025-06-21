@@ -20,10 +20,6 @@ layout: post
 
 [Computer PDF](/assets/docs/computer.pdf)
 
-<div class="pdf-container">
-    <iframe src="dir/document.pdf" height="600" width="100%"></iframe>
-</div>
-
 
 <p>Open a PDF file <a href="/assets/docs/computer.pdf">example</a>.</p>
 
