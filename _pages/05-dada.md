@@ -53,7 +53,8 @@ gaga di bumbalo bumbalo gadjamen
 gaga di bling blong
 gaga blung
 
----
+<hr style="background-color: rgb(237, 40, 5); height: 3px;">
+
 
 ## Ripping video foff Youtube using Linux
 
@@ -137,7 +138,7 @@ If you need *frame-accurate* cuts, you would omit `-c copy` (which forces re-enc
 
 Choose the method that best suits your needs\! The `yt-dlp` combined with `ffmpeg` method is generally more efficient for directly extracting snippets from YouTube.
 
----
+<hr style="background-color: rgb(237, 40, 5); height: 3px;">
 
 ## How to make pcitures into charcoal srawings with GIMP.
 
@@ -249,7 +250,9 @@ To make it look more like charcoal, which often has a grainier, softer, and some
 
 Remember that experimentation is key in GIMP! Play around with the filter settings, layer modes, and opacity until you achieve the exact pencil or charcoal look you desire. Every photo will react differently, so be prepared to make minor adjustments.
 
----
+
+<hr style="background-color: rgb(237, 40, 5); height: 3px;">
+
 
 ## Scratch Video
 
@@ -396,3 +399,5 @@ Now, let's head over to Scratch.mit.edu\!
   * **Saving:** Scratch saves your project automatically as you work, but it's good practice to occasionally check that it's saving (look for "Project saved" in the top bar).
 
 This method allows you to precisely control the order and timing of your iPhone photos synced to your chosen soundtrack, effectively creating your own Scratch video movie\!
+
+<hr style="background-color: rgb(237, 40, 5); height: 3px;">
