@@ -18,6 +18,16 @@ layout: post
 <iframe src="/assets/docs/computer.pdf" height="600" width="100%" allowFullScreen="true"></iframe>
 </div>
 
+[Computer PDF](/assets/docs/computer.pdf)
+
+<div class="pdf-container">
+    <iframe src="dir/document.pdf" height="600" width="100%"></iframe>
+</div>
+
+
+<p>Open a PDF file <a href="/assets/docs/computer.pdf">example</a>.</p>
+
+
 Print the Word-Search
 
 - make Downloadable NEED PDF for Games
