@@ -2,7 +2,7 @@
 title: Dada Poem
 author: MCC
 date: 2025-06-17
-category: 
+category:
 layout: post
 ---
 
@@ -15,47 +15,49 @@ https://www.youtube.com/watch?v=qKFn66dzdz0
 
 I Zimbra - Talking Heads
 
-Gadji beri bimba clandridi  
-Lauli lonni cadori gadjam  
-A bim beri glassala glandride  
-E glassala tuffu i zimbra  
-Bim blassa glassala zimbra  
-Bim blassa glassala zimbra bim  
-A bim beri glassala grandrid  
-E glassala tuffu i zimbra  
-Gadji beri bimba glandridi  
-Lauli lonni cadora gadjam  
-A bim beri glassasa glandrid  
-E glassala tuffu i zimbra  
+Gadji beri bimba clandridi
+Lauli lonni cadori gadjam
+A bim beri glassala glandride
+E glassala tuffu i zimbra
+Bim blassa glassala zimbra
+Bim blassa glassala zimbra bim
+A bim beri glassala grandrid
+E glassala tuffu i zimbra
+Gadji beri bimba glandridi
+Lauli lonni cadora gadjam
+A bim beri glassasa glandrid
+E glassala tuffu i zimbra
 
 ---
 
 Dadaist Hugo Ball's poem “Gadji beri bimba"
 
-Gadji Beri Bimba  
-gadji beri bimba glandridi laula lonni cadori  
-gadjama gramma berida bimbala glandri galassassa laulitalomini  
-gadji beri bin blassa glassala laula lonni cadorsu sassala bim  
-gadjama tuffm i zimzalla binban gligla wowolimai bin beri ban  
-o katalominai rhinozerossola hopsamen laulitalomini hoooo  
-gadjama rhinozerossola hopsamen  
-bluku terullala blaulala loooo  
+Gadji Beri Bimba
+gadji beri bimba glandridi laula lonni cadori
+gadjama gramma berida bimbala glandri galassassa laulitalomini
+gadji beri bin blassa glassala laula lonni cadorsu sassala bim
+gadjama tuffm i zimzalla binban gligla wowolimai bin beri ban
+o katalominai rhinozerossola hopsamen laulitalomini hoooo
+gadjama rhinozerossola hopsamen
+bluku terullala blaulala loooo
 
-zimzim urullala zimzim urullala zimzim zanzibar zimzalla zam  
-elifantolim brussala bulomen brussala bulomen tromtata  
-velo da bang band affalo purzamai affalo purzamai lengado tor  
-gadjama bimbalo glandridi glassala zingtata pimpalo ögrögöööö  
-viola laxato viola zimbrabim viola uli paluji malooo  
+zimzim urullala zimzim urullala zimzim zanzibar zimzalla zam
+elifantolim brussala bulomen brussala bulomen tromtata
+velo da bang band affalo purzamai affalo purzamai lengado tor
+gadjama bimbalo glandridi glassala zingtata pimpalo ögrögöööö
+viola laxato viola zimbrabim viola uli paluji malooo
 
-tuffm im zimbrabim negramai bumbalo negramai bumbalo tuffm i zim  
-gadjama bimbala oo beri gadjama gaga di gadjama affalo pinx  
-gaga di bumbalo bumbalo gadjamen  
-gaga di bling blong  
+tuffm im zimbrabim negramai bumbalo negramai bumbalo tuffm i zim
+gadjama bimbala oo beri gadjama gaga di gadjama affalo pinx
+gaga di bumbalo bumbalo gadjamen
+gaga di bling blong
 gaga blung
+
+---
 
 ## Ripping video foff Youtube using Linux
 
-Linux provides powerful command-line tools that make this task quite straightforward. 
+Linux provides powerful command-line tools that make this task quite straightforward.
 
 You'll primarily need two pieces of software:
 
@@ -148,12 +150,12 @@ This method is quick and produces a clean line drawing effect.
     * Go to `File > Open...` and select your iPhone photo.
 
 2.  **Duplicate the Background Layer:**
-    * In the Layers panel (usually on the right side), right-click on your "Background" layer and choose `Duplicate Layer`. You should now have two identical layers.
+    * choose `Duplicate Layer`. You should now have two identical layers.
 
 3.  **Desaturate the Duplicate Layer:**
     * Select the **top** (duplicate) layer.
     * Go to `Colors > Desaturate > Desaturate...`
-    * In the dialog box, you can usually leave the default "Luminosity" mode, or experiment with "Lightness" or "Average" to see which gives the best black and white conversion for your image. Click `OK`.
+    * use default "Luminosity" mode, Click `OK`.
 
 4.  **Invert Colors of the Desaturated Layer:**
     * With the top layer still selected, go to `Colors > Invert`. Your image will now look like a photo negative.
@@ -246,3 +248,151 @@ To make it look more like charcoal, which often has a grainier, softer, and some
     * Change the blending mode of the paper texture layer (e.g., `Overlay`, `Soft Light`, or `Multiply`) and adjust its opacity to subtly show through your drawing, giving it a more authentic feel.
 
 Remember that experimentation is key in GIMP! Play around with the filter settings, layer modes, and opacity until you achieve the exact pencil or charcoal look you desire. Every photo will react differently, so be prepared to make minor adjustments.
+
+---
+
+## Scratch Video
+
+
+That's a great idea for a Scratch project\! While Scratch isn't primarily a video editing tool, you can absolutely create a slideshow-style "video" with pictures and a soundtrack. It will feel much like a stop-motion animation or a sequence of scenes.
+
+Here's a step-by-step guide on how to do this using Scratch.mit.edu:
+
+### Phase 1: Prepare Your iPhone Photos
+
+1.  **Transfer Photos to Your Computer:** Get the pictures from your iPhone onto your computer. You can use:
+      * **USB Cable:**
+      * **Cloud Services:** Dropbox
+      * **Email/Airdrop:**
+
+2.  **Crop and Resize (Optional but Recommended):**
+      * **Scratch Stage Size:** The Scratch stage is **480 pixels wide by 360 pixels high**.
+      - If your photos are much larger, they will take longer to load and might look pixelated when scaled down.
+      * **Recommended:** Briefly resize your photos to be close to or slightly larger than 480x360 pixels. You can use any basic image editor (like Paint on Windows, Preview on Mac, or GIMP/Pinta on Linux). You can also crop them to a 4:3 aspect ratio (like 480x360) if you want them to perfectly fill the screen without distortion or black bars.
+      * **Save as JPG or PNG:**
+
+### Phase 2: Prepare Your Soundtrack
+
+1.  **Obtain Your Audio File:** Get the music track
+      * **Legal Considerations:** Be mindful of copyright
+      * **Supported Formats:** Scratch supports `.wav` and `.mp3` files.
+2.  **Trim/Edit (Optional):** If your soundtrack is too long, you might want to trim it to the desired length using an audio editor (like **Audacity**, a free and open-source option).
+
+### Phase 3: Create Your Project in Scratch
+
+Now, let's head over to Scratch.mit.edu\!
+
+1.  **Create a New Project:**
+
+      * Go to [scratch.mit.edu](http://scratch.mit.edu/).
+      * Click `Create` at the top.
+
+2.  **Upload Your Photos as Sprites:**
+
+      * **Delete the Cat Sprite:** Right-click on the default "Sprite1" (the cat) in the Sprite list below the stage and choose `delete`.
+
+      * **Upload Each Photo:**
+          * Hover over the `Choose a Sprite` button (the cat icon with a `+` sign) in the bottom-right of the Sprite list.
+          * Click `Upload Sprite` (the arrow pointing up from a box).
+          * Navigate to where you saved your first iPhone photo, select it, and click `Open`.
+          * Repeat this for *each* photo you want to use in your video.
+      * **Rename Sprites (Optional but Recommended):** To keep things organized, click on each sprite in the Sprite list and change its name (e.g., "Photo1", "Photo2") in the 'Sprite' information area above the code blocks.
+
+3.  **Position Your Photos (Sprites):**
+
+      * For each photo sprite, click on it in the Sprite list.
+      * In the Code area, drag out a `go to x: (0) y: (0)` block from the **Motion** category. This will center each image on the stage.
+      * If your photos are larger than the stage, you can use the `set size to (%)` block (from **Looks**) and adjust the percentage (e.g., `80%`, `50%`) until it fits nicely. You might need to do this for each photo if they have different original sizes.
+
+4.  **Upload Your Soundtrack:**
+
+      * Go to the `Sounds` tab in the middle panel (next to `Code` and `Costumes`).
+      * Click the `Upload Sound` button (the speaker icon with an arrow).
+      * Select your soundtrack file and click `Open`.
+      * You can trim the sound directly in Scratch if needed by clicking on it in the sound editor.
+
+5.  **Code the Sequence (Main Script on a New Sprite or Stage):**
+
+      * **Option A (Recommended): Create a dedicated "Controller" Sprite:** This keeps your stage clean.
+
+          * Click `Choose a Sprite` \> `Paint`. Don't draw anything, just make an empty sprite. Rename it "Controller" or "Director."
+          * Click on this "Controller" sprite in the Sprite list.
+
+      * **Option B: Code on the Stage:** Click on the "Stage" thumbnail in the bottom-left of the Sprite list.
+
+      * **Add "When Green Flag Clicked":** Drag out a `when green flag clicked` block from the **Events** category.
+
+      * **Start the Music:**
+
+          * From the **Sound** category, drag out a `start sound [your_sound_name]` block and select your uploaded soundtrack. (Using `start sound` allows the script to continue running; `play sound until done` would pause it.)
+
+      * **Control Photo Visibility and Timing:**
+
+          * From the **Looks** category, drag out `hide` blocks for *all* your photo sprites. Place these at the very beginning of your script, right after `when green flag clicked`. This ensures only one photo is visible at a time.
+          * Now, build your sequence:
+              * `show` (for Photo1)
+              * `go to x: (0) y: (0)` (for Photo1, if you didn't do it per-sprite, or if you want to explicitly reset position)
+              * `wait (seconds)` (from **Control** category - this is how long Photo1 stays on screen)
+              * `hide` (for Photo1)
+              * `show` (for Photo2)
+              * `go to x: (0) y: (0)` (for Photo2)
+              * `wait (seconds)` (for Photo2)
+              * `hide` (for Photo2)
+              * ...and so on for all your photos.
+
+      * **Example Script Structure (on your Controller Sprite):**
+
+    <!-- end list -->
+
+    ```scratch
+    when green flag clicked
+    hide (Photo1)    // Initial hides for all photos
+    hide (Photo2)
+    hide (Photo3)
+    // ... and so on for all your photos
+
+    start sound [MyAwesomeSoundtrack] // Make sure you select your actual sound
+
+    // Photo 1
+    show (Photo1)
+    go to x: (0) y: (0)
+    wait (5) seconds // Show Photo1 for 5 seconds
+    hide (Photo1)
+
+    // Photo 2
+    show (Photo2)
+    go to x: (0) y: (0)
+    wait (7) seconds // Show Photo2 for 7 seconds
+    hide (Photo2)
+
+    // Photo 3
+    show (Photo3)
+    go to x: (0) y: (0)
+    wait (6) seconds // Show Photo3 for 6 seconds
+    hide (Photo3)
+
+    // ... continue for all your photos
+    // At the very end, you might want to stop the sound if it's longer than your total photo sequence
+    stop all sounds
+    ```
+
+6.  **Test Your Project:**
+
+      * Click the Green Flag to run your project.
+      * Watch and listen to see if the timing is correct. Adjust the `wait` times as needed.
+      * If you need precise timing, you can listen to your soundtrack and note down the exact second marks where you want each picture to change.
+
+7.  **Share Your Project (Optional):**
+
+      * If you're happy with your "video," click the `Share` button (top right of the Scratch editor).
+      * Add instructions and notes about your project.
+
+### Tips for a Better "Video":
+
+  * **Pacing:** Vary the `wait` times based on the content of the photo and the rhythm of your music.
+  * **Transitions (Advanced):** You can create simple transitions by using the `change [color] effect by (25)` block (from **Looks**) and then `clear graphic effects`. Or, use a `glide` block for a subtle movement effect between photos. However, for a simple slideshow, `hide` and `show` is perfectly fine.
+  * **Narrated Voiceover:** If you want to add your voice, you can record sounds directly in Scratch (in the `Sounds` tab, click `Record`). Then, intersperse `play sound [your_narration]` blocks in your script.
+  * **Sprite Ordering:** Ensure your photo sprites are *above* any background you might add.
+  * **Saving:** Scratch saves your project automatically as you work, but it's good practice to occasionally check that it's saving (look for "Project saved" in the top bar).
+
+This method allows you to precisely control the order and timing of your iPhone photos synced to your chosen soundtrack, effectively creating your own Scratch video movie\!
