@@ -21,10 +21,11 @@ permalink: /
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
-| The Neotrellis device can be programmed to play several different games. |
-|-|
-| This site introduces lessons in ![](/images/scratch/scratch-word.png) 
-| and ![](images/python/python-word2.png)To play and programming quickly |
+The Neotrellis device can be programmed to play several different games.    
+This site introduces lessons in  
+<center>![](/images/scratch/scratch-word.png)</center>  
+and   
+<center>![](images/python/python-word2.png)To play and programming quickly</center>  
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
