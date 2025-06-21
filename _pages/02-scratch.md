@@ -15,8 +15,7 @@ layout: post
 **Get your word-search for the day.**
 
 <div class="pdf-container">
-    <iframe src="/assets/docs/computer.pdf" height="600" width="100%" allowFullScreen="true">
-    </iframe>
+<iframe src="/assets/docs/computer.pdf" height="600" width="100%" allowFullScreen="true"></iframe>
 </div>
 
 Print the Word-Search
