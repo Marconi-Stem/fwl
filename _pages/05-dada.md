@@ -1,13 +1,8 @@
 ---
-title: Dada Poem
+title: Dada Poem And Video
 author: MCC
 date: 2025-06-17
-category:
 layout: post
----
-
-This is "_pages/about.md"
-
 ---
 
 
@@ -68,8 +63,6 @@ You'll primarily need two pieces of software:
 Here's a step-by-step procedure:
 
 ### Step 1: Install yt-dlp and FFmpeg
-
-Most Linux distributions have these packages in their repositories.
 
 **For Debian/Ubuntu-based systems (like Linux Mint, Pop\!\_OS):**
 
@@ -268,9 +261,9 @@ Here's a step-by-step guide on how to do this using Scratch.mit.edu:
       * **Cloud Services:** Dropbox
       * **Email/Airdrop:**
 
-2.  **Crop and Resize (Optional but Recommended):**
+2.  **Crop and Resize (Recommended):**
       * **Scratch Stage Size:** The Scratch stage is **480 pixels wide by 360 pixels high**.
-      - If your photos are much larger, they will take longer to load and might look pixelated when scaled down.
+      - If your photos are larger, they will take longer to load and might look pixelated when scaled down.
       * **Recommended:** Briefly resize your photos to be close to or slightly larger than 480x360 pixels. You can use any basic image editor (like Paint on Windows, Preview on Mac, or GIMP/Pinta on Linux). You can also crop them to a 4:3 aspect ratio (like 480x360) if you want them to perfectly fill the screen without distortion or black bars.
       * **Save as JPG or PNG:**
 
@@ -282,8 +275,6 @@ Here's a step-by-step guide on how to do this using Scratch.mit.edu:
 2.  **Trim/Edit (Optional):** If your soundtrack is too long, you might want to trim it to the desired length using an audio editor (like **Audacity**, a free and open-source option).
 
 ### Phase 3: Create Your Project in Scratch
-
-Now, let's head over to Scratch.mit.edu\!
 
 1.  **Create a New Project:**
 
@@ -299,7 +290,7 @@ Now, let's head over to Scratch.mit.edu\!
           * Click `Upload Sprite` (the arrow pointing up from a box).
           * Navigate to where you saved your first iPhone photo, select it, and click `Open`.
           * Repeat this for *each* photo you want to use in your video.
-      * **Rename Sprites (Optional but Recommended):** To keep things organized, click on each sprite in the Sprite list and change its name (e.g., "Photo1", "Photo2") in the 'Sprite' information area above the code blocks.
+      * **Organize/Rename Sprites (Recommended):** To keep things organized, click on each sprite in the Sprite list and change its name (e.g., "Photo1", "Photo2") in the 'Sprite' information area above the code blocks.
 
 3.  **Position Your Photos (Sprites):**
 
