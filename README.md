@@ -4,7 +4,7 @@ title: Blast Off With The Neotrellis(43728)
 permalink: /
 ---
 
-**Make A Synthesizer!** (43728)
+### Make A Synthesizer!
 
 > 9 AM - Noon, July 29-31, 2025 
 {: .block-tip }
@@ -17,13 +17,15 @@ permalink: /
 > \$315 / session for Chatham Marconi Supporting Members and above.  
 {: .block-tip }
 
-![neotrellis](/assets/images/parts/neotrellis.jpg) 
+| The Neotrellis Sound Machine |
+|:-:|
+| ![neotrellis](/assets/images/parts/neotrellis.jpg) |
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
 The Neotrellis device can be programmed to play several different games.    
 This site introduces lessons in  
-![Scratch](/assets/images/scratch/scratch-word.png) <br> and <br> ![Python](/assets/images/python/python-word2.png)
+![Scratch](/assets/images/scratch/scratch-word.png) <br> and <br> ![Python](/assets/images/python/python.word2.small.png)  
 To play and programming quickly  
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
