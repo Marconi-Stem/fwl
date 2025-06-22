@@ -17,16 +17,15 @@ permalink: /
 > \$315 / session for Chatham Marconi Supporting Members and above.  
 {: .block-tip }
 
-| The Neotrellis Sound Machine |
-|:-:|
-| ![neotrellis](/assets/images/parts/neotrellis.jpg) |
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
-The Neotrellis device can be programmed to play several different games.    
-This site introduces lessons in  
-![Scratch](/assets/images/scratch/scratch-word.png) <br> and <br> ![Python](/assets/images/python/python.word2.small.png)  
-To play and programming quickly  
+| This course introduces lessons in: |
+|:-:|
+| ![Scratch](/assets/images/scratch/scratch-word.png) <br><br> **and** <br><br> ![Python](/assets/images/python/python.word2.small.png) |
+| The goal of these exercises is to:<br>1. make a video with Scratch <br>and<br>2. program the Neotrellis Sound Machine. | 
+| ![neotrellis](/assets/images/parts/neotrellis.jpg) |
+| **The Neotrellis Sound Machine** |
 
 <hr style="background-color: rgb(5, 133, 237); height: 3px;">
 
