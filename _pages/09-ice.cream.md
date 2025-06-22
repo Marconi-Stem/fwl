@@ -1,6 +1,6 @@
 ---
-Title: Freeze Bag Ice Cream
-Layout: post
+title: Freeze Bag Ice Cream
+layout: post
 cover: /assets/dinosaur.gif
 ---
 
